@@ -4,5 +4,5 @@
 
 # My GitHub Stats:
 [![TheSGJ's github trophy](https://github-profile-trophy.vercel.app/?username=TheSGJ&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheSGJ&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![TheSGJ's github stats](https://github-readme-stats.vercel.app/api?username=TheSGJ&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
