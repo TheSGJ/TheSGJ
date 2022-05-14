@@ -4,10 +4,10 @@
 
 # My GitHub Stats:
 
-[![TheSGJ's github stats](https://github-readme-stats.vercel.app/api?username=TheSGJ&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![TheSGJ's github stats](https://github-readme-stats.vercel.app/api?username=TheSGJ&theme=blue-green)](https://github.com/thesgj)
 
-[![TheSGJ's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSGJ&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![TheSGJ's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSGJ&theme=blue-green)](https://github.com/thesgj)
 
-[![TheSGJ's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSGJ&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![TheSGJ's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSGJ&theme=blue-green)](https://github.com/thesgj)
 
-[![TheSGJ's github trophy](https://github-profile-trophy.vercel.app/?username=TheSGJ&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![TheSGJ's github trophy](https://github-profile-trophy.vercel.app/?username=TheSGJ&row=1)](https://github.com/thesgj)
