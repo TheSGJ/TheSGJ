@@ -5,7 +5,7 @@
 ---
 
 ### My Personal Website on [thesgj.vercel.app](https://thesgj.vercel.app/)
-### Checkout my blog on [thesgj.vercel.app/blog](https://thesgj.vercel.app/blog)
+### Checkout my blog on [thesgj.vercel.app/posts](https://thesgj.vercel.app/posts)
 ### Checkout my projects on [thesgj.vercel.app/projects](https://thesgj.vercel.app/projects)
 - Twitter [@TheSGJyt](https://twitter.com/thesgjyt)
 - GitHub [@TheSGJ](https://github.com/thesgj)
