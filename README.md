@@ -1,6 +1,6 @@
 - Hi, I’m @TheSGJ
 - 👀 I’m interested in coding back-end code by using python and nodejs
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next Js
 - 📫 You can reach me out on my Insta on @sgj.ig & or on my twitter on TheSGJyt
 ---
 
