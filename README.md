@@ -4,9 +4,9 @@
 - 📫 You can reach me out on my Insta on @sgj.ig & or on my twitter on TheSGJyt
 ---
 
-- My Personal Website on [thesgj.vercel.app](https://thesgj.vercel.app/)
-- Checkout my blog on [thesgj.vercel.app/posts](https://thesgj.vercel.app/posts)
-- Checkout my projects on [thesgj.vercel.app/projects](https://thesgj.vercel.app/projects)
+- My Personal Website on [thesgj.tech](https://thesgj.tech)
+- Checkout my blog on [thesgj.tech/posts](https://thesgj.tech/posts)
+- Checkout my projects on [thesgj.tech/projects](https://thesgj.tech/projects)
 - Twitter [@TheSGJyt](https://twitter.com/thesgjyt)
 - GitHub [@TheSGJ](https://github.com/thesgj)
 - Instagram [@sgj.ig](https://instagram.com/sgj.ig)
