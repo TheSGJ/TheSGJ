@@ -1,6 +1,6 @@
 - Hi, I’m @TheSGJ
 - 👀 I’m interested in coding back-end code by using python and nodejs
-- 🌱 I’m currently learning Next Js
+- 🌱 I’m currently learning Typescript & Nest js
 - 📫 You can reach me out on my Insta on @sgj.ig & or on my twitter on TheSGJyt
 ---
 
@@ -12,6 +12,7 @@
 - Instagram [@sgj.ig](https://instagram.com/sgj.ig)
 - Website [www.rigelgrin.xyz](https://www.rigelgrin.xyz)
 
+<iframe src="https://github.com/sponsors/TheSGJ/card" title="Sponsor TheSGJ" height="225" width="600" style="border: 0;"></iframe>
 ---
 # My GitHub Stats:
 
