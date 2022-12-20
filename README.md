@@ -15,7 +15,7 @@
 ---
 
 # My GitHub Stats:
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=TheSGJ)
 [![TheSGJ's github stats](https://github-readme-stats.vercel.app/api?username=TheSGJ&theme=blue-green)](https://github.com/thesgj)
 [![TheSGJ's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSGJ&theme=blue-green)](https://github.com/thesgj)
 [![TheSGJ's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSGJ&theme=blue-green)](https://github.com/thesgj)
