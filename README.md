@@ -22,3 +22,5 @@
 [![TheSGJ's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSGJ&theme=blue-green)](https://github.com/thesgj)
 [![TheSGJ's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSGJ&theme=blue-green)](https://github.com/thesgj)
 [![TheSGJ's github trophy](https://github-profile-trophy.vercel.app/?username=TheSGJ&row=1)](https://github.com/thesgj)
+
+<a href="https://www.digitalocean.com/?refcode=c3fbdcb9d90a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
