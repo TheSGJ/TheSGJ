@@ -24,6 +24,5 @@
 [![TheSGJ's github trophy](https://github-profile-trophy.vercel.app/?username=TheSGJ&row=1)](https://github.com/thesgj)
 
 - My Server APIs Hosted Using:
-<a href="https://www.digitalocean.com/?refcode=c3fbdcb9d90a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="" alt="DigitalOcean Referral Badge" /></a>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c3fbdcb9d90a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
