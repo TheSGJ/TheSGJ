@@ -10,7 +10,7 @@
 - Twitter [@TheSGJyt](https://twitter.com/thesgjyt)
 - GitHub [@TheSGJ](https://github.com/thesgj)
 - Instagram [@sgj.ig](https://instagram.com/sgj.ig)
-- Website [www.rigelgrin.live](https://www.rigelgrin.live)
+- Website [www.rigelgrinmedia.live](https://www.rigelgrinmedia.live)
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=TheSGJ)
