@@ -1,6 +1,6 @@
 - Hi, I’m @TheSGJ
 - 👀 I’m interested in coding back-end code by using python and nodejs
-- 🌱 I’m currently learning Typescript & Nest js
+- 🌱 I’m currently learning Typescript & Rust
 - 📫 You can reach me out on my Insta on @sgj.ig & or on my twitter on TheSGJyt
 ---
 
