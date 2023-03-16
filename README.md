@@ -23,7 +23,10 @@
 [![TheSGJ's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSGJ&theme=blue-green)](https://github.com/thesgj)
 [![TheSGJ's github trophy](https://github-profile-trophy.vercel.app/?username=TheSGJ&row=1)](https://github.com/thesgj)
 
-<iframe src="https://github.com/sponsors/TheSGJ/button" title="Sponsor TheSGJ" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
+
+[![GitHub Sponsor Badge](https://github.com/sponsors/TheSGJ/button)](https://github.com/sponsors/TheSGJ/)
+
 
 ### My Server APIs Hosted Using:
 
