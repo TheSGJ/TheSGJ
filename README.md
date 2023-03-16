@@ -25,7 +25,7 @@
 
 
 
-[![GitHub Sponsor Badge](https://github.com/sponsors/TheSGJ/button)](https://github.com/sponsors/TheSGJ/)
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on-GitHub-brightgreen)](https://github.com/sponsors/TheSGJ)
 
 
 ### My Server APIs Hosted Using:
