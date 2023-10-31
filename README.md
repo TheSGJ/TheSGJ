@@ -29,7 +29,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thesgj)
 
-UPI ID: [sgj@apl](upi://pay?pa=sgj@apl&pn=Shri%20Ganesh%20Jha)
+UPI ID: thesgj@sbi
 
 ### My Server APIs Hosted Using:
 
