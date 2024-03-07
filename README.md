@@ -28,7 +28,3 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thesgj)
 
 UPI ID: thesgj@sbi
-
-### My Server APIs Hosted Using:
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=c3fbdcb9d90a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
