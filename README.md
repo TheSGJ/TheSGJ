@@ -1,7 +1,7 @@
 - Hi, I’m @TheSGJ
 - 👀 I’m interested in coding back-end code by using python and nodejs
 - 🌱 I’m currently learning Rust
-- 📫 You can reach me out on my Insta on @sgj.ig & or on my twitter on TheSGJyt
+- 📫 You can reach me out on my LinkedIn: [in/thesgj](https://www.linkedin.com/in/thesgj)
 ---
 
 
@@ -10,6 +10,7 @@
 - Twitter [@TheSGJyt](https://twitter.com/thesgjyt)
 - GitHub [@TheSGJ](https://github.com/thesgj)
 - Instagram [@sgj.ig](https://instagram.com/sgj.ig)
+- LinkedIn [in/thesgj](https://www.linkedin.com/in/thesgj)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=TheSGJ)
 
