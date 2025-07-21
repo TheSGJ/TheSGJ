@@ -1,6 +1,5 @@
 - Hi, I’m @TheSGJ
-- 👀 I’m interested in coding back-end code by using python and nodejs
-- 🌱 I’m currently learning Rust
+- 👀 I like to work on Typescript projects.
 - 📫 You can reach me out on my LinkedIn: [in/thesgj](https://www.linkedin.com/in/thesgj)
 ---
 
@@ -12,8 +11,6 @@
 - Instagram [@sgj.ig](https://instagram.com/sgj.ig)
 - LinkedIn [in/thesgj](https://www.linkedin.com/in/thesgj)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=TheSGJ)
-
 ---
 
 # My GitHub Stats:
@@ -24,6 +21,8 @@
 
 
 
-[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on-GitHub-brightgreen)](https://github.com/sponsors/TheSGJ)
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on-GitHub-brightgreen)](https://github.com/sponsors/TheSGJ) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thesgj)
+---
+![Profile View Counter](https://komarev.com/ghpvc/?username=TheSGJ)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thesgj)
+
