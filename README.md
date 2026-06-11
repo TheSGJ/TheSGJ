@@ -8,7 +8,6 @@
 
 - Twitter [@TheSGJyt](https://twitter.com/thesgjyt)
 - GitHub [@TheSGJ](https://github.com/thesgj)
-- Instagram [@sgj.ig](https://instagram.com/sgj.ig)
 - LinkedIn [in/thesgj](https://www.linkedin.com/in/thesgj)
 
 ---
